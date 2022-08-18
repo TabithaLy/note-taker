@@ -12,7 +12,7 @@ The purpose of this project is to use Express.js to build the back end for a not
 
 [License](#license)
 
-[Github](#github)
+[Questions](#questions)
 
 ## Usage
     
