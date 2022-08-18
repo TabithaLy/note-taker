@@ -14,6 +14,10 @@ The purpose of this project is to use Express.js to build the back end for a not
 
 [Questions](#questions)
 
+## Deployed Page Link
+
+[https://tabithaly.github.io/note-taker/](https://tabithaly.github.io/note-taker/)
+
 ## Usage
     
 Type in your notes as you would like them to be saved into the application.
@@ -21,7 +25,11 @@ Type in your notes as you would like them to be saved into the application.
 ## License 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
+
+## Shout Out
+
+Voravich S. and Freddy Kwak who are in my study group and helped me understand concepts relevant to this challenge.
+
 ## Questions?
 
 [https://github.com/TabithaLy/note-taker](https://github.com/TabithaLy/note-taker)
