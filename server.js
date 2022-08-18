@@ -1,7 +1,7 @@
 // copied and modified from \UPENN-VIRT-FSF-FT-07-2022-U-LOLC\11-Express\01-Activities\24-Stu_Custom-Middleware\Solved\server.js and \tips.js
 const express = require('express');
 const path = require('path');
-const api = require('./public/assets/js/index.js');
+// const api = require('./public/assets/js/index.js');
 const { readFromFile, readAndAppend } = require('./helpers/fsUtils');
 const PORT = 3001;
 const uuid = require('./helpers/uuid');
@@ -9,7 +9,7 @@ const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use('/api', api);
+// app.use('/api', api);
 
 app.use(express.static('public'));
 
