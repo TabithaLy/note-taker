@@ -8,15 +8,25 @@ The purpose of this project is to use Express.js to build the back end for a not
 
 [Description](#description)
 
+[Screenshot](#screenshot)
+
+[Link](#link)
+
 [Usage](#usage)
 
 [License](#license)
 
+[Shout-out](#shout-out)
+
 [Questions](#questions)
 
-## Deployed Page Link
+## Screenshot 
 
-[https://tabithaly.github.io/note-taker/](https://tabithaly.github.io/note-taker/)
+![Screenshot](./public/assets/note-taker-pic.png)
+
+## Link
+
+[https://fathomless-earth-34037.herokuapp.com/](https://fathomless-earth-34037.herokuapp.com/)
 
 ## Usage
     
@@ -26,7 +36,7 @@ Type in your notes as you would like them to be saved into the application.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Shout Out
+## Shout-Out
 
 Voravich S. and Freddy Kwak who are in my study group and helped me understand concepts relevant to this challenge.
 
